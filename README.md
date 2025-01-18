@@ -28,7 +28,9 @@ This project focuses on analyzing ticket sales data and engineering features to 
 
 4. **Model Evaluation**
    - Assessed models using error metrics like RMSE, MAPE, and MAE.
-   - Cross-validated models to ensure robustness.
+
+![Image](https://github.com/user-attachments/assets/f9c5bb2d-24dc-495c-a8aa-b85d69b7c184)
+
    - Visualized model performance via regression plots.
 
 ![Image](https://github.com/user-attachments/assets/141332ac-2c79-4f4c-9a6b-8cc60c6c120c)
