@@ -24,8 +24,7 @@ This project focuses on analyzing ticket sales data and engineering features to 
 
 3. **Model Development**
    - Designed forecasting models utilizing machine learning algorithms.
-   - Optimized hyperparameters to improve model performance.
-
+   
 4. **Model Evaluation**
    - Assessed models using error metrics like RMSE, MAPE, and MAE.
 
