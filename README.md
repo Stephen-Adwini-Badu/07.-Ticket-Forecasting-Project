@@ -26,7 +26,7 @@ This project focuses on analyzing ticket sales data and engineering features to 
    - Designed forecasting models utilizing machine learning algorithms.
    
 4. **Model Evaluation**
-   - Assessed models using error metrics like RMSE, MAPE, and MAE.
+   - Assessed models using error metrics like MAPE, MAE, MSE and R².
 
 ![Image](https://github.com/user-attachments/assets/f9c5bb2d-24dc-495c-a8aa-b85d69b7c184)
 
@@ -54,7 +54,7 @@ This project focuses on analyzing ticket sales data and engineering features to 
 ---
 
 ## Results
-- Developed models achieved high forecasting accuracy.
+- Developed models achieved high forecasting accuracy with an **R²** of **~99%***(0.990457)*.
 - Feature-engineered models provided more stable and reliable demand forecasts.
 
 ---
