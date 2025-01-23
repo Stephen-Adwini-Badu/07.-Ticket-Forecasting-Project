@@ -28,7 +28,30 @@ This project focuses on analyzing ticket sales data and engineering features to 
 4. **Model Evaluation**
    - Assessed models using error metrics like MAPE, MAE, MSE and R².
 
-![Image](https://github.com/user-attachments/assets/f9c5bb2d-24dc-495c-a8aa-b85d69b7c184)
+<table align="center">
+<tr>
+  <th>MODEL</th>
+  <th>MAE</th>
+  <th>MSE</th>
+  <th>MAPE</th>
+  <th>R²</th>
+</tr>
+<tr>
+  <td>Decision Tree Regressor</td>
+  <td align="center">49.284926</td>
+  <td align="center">7844.473298</td>
+  <td align="center">0.064872</td>
+  <td align="center">0.923424</td>
+</tr>
+<tr>
+  <td>Random Forest Regressor</td>
+  <td align="center">37.301492</td>
+  <td align="center">4515.906252</td>
+  <td align="center">0.049185</td>
+  <td align="center">0.990457</td>
+</tr>
+</table>
+
 
    - Visualized model performance via regression plots.
 
