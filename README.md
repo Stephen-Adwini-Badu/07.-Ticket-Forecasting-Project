@@ -1,4 +1,4 @@
-# Ticket Forecasting Notebook
+# Ticket Forecasting Project
 
 ## Project Overview
 This project focuses on analyzing ticket sales data and engineering features to improve forecasting accuracy. By leveraging advanced data analysis techniques and machine learning models, the project aims to provide a reliable forecasting mechanism to predict ticket demand trends.
