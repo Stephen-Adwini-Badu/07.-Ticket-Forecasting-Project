@@ -64,7 +64,7 @@ This project focuses on analyzing ticket sales data and engineering features to 
   - Trend Identification: Spoting underlying trends and patterns in the data.
   - Model Generalization: Evaluating how well the model performs on unseen data.
 
-![Image](https://github.com/user-attachments/assets/2b14889f-f60a-4022-905d-80af4b52865a)
+![7](https://github.com/user-attachments/assets/0e9166bf-9662-4e13-b4a6-3303c51ff572)
 
 ---
 
